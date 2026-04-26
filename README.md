@@ -30,3 +30,14 @@ The dataset includes:
 - SQLite
 - SQL# sales-performance-analysis
 Sales analysis project using SQL and Python
+
+## 📊 Visualizations
+
+### Monthly Profit Trend
+![Monthly Profit](monthly_profit.png)
+
+### Profit by City
+![City Profit](city_profit.png)
+
+### Product Profitability
+![Product Profit](product_profit.png)
